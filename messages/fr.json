@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Chris Digital Studio — Studio digital immersif",
+    "description": "Développeur créatif. Expériences web immersives en 3D temps réel et WebGL."
+  },
+  "nav": {
+    "about": "À propos",
+    "work": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "kicker": "Studio digital immersif",
+    "title": "L'EXPÉRIENCE IMMERSIVE",
+    "titleAccent": "STUDIO",
+    "subtitle": "UX stratégique en 3D temps réel et WebGL. Je transforme des idées complexes en expériences digitales immersives.",
+    "scroll": "Défiler pour découvrir"
+  },
+  "about": {
+    "kicker": "Le z-axis",
+    "title": "LE WEB EST PLAT. J'AJOUTE DE LA PROFONDEUR.",
+    "body": "Les marques se ressemblent toutes et perdent l'attention. Je crois que la prochaine génération du web est immersive : du mouvement, de la profondeur et du sens. Je ne me contente pas de montrer un produit — je laisse les gens en faire l'expérience.",
+    "stats": {
+      "experience": "Années d'expérience",
+      "projects": "Projets livrés",
+      "stack": "Stack temps réel"
+    }
+  },
+  "work": {
+    "kicker": "Validation globale",
+    "title": "PROJETS SÉLECTIONNÉS",
+    "inspect": "Inspecter le projet"
+  },
+  "contact": {
+    "kicker": "Construisons ensemble",
+    "title": "PARLONS DE VOTRE PROJET",
+    "subtitle": "Une idée, une marque, une expérience à créer ? Écrivez-moi ou réservez un appel.",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "submit": "Envoyer par email"
+    },
+    "booking": {
+      "title": "Réserver un appel",
+      "description": "Choisissez un créneau qui vous convient."
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "director": "Direction créative",
+    "webglUnsupported": "WEBGL NON SUPPORTÉ"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Chris Digital Studio — Immersive Digital Studio",
+    "description": "Creative developer. Immersive web experiences with real-time 3D and WebGL."
+  },
+  "nav": {
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "kicker": "Immersive digital studio",
+    "title": "THE IMMERSIVE EXPERIENCE",
+    "titleAccent": "STUDIO",
+    "subtitle": "Strategic UX with real-time 3D and WebGL. I turn complex ideas into immersive digital experiences.",
+    "scroll": "Scroll to discover"
+  },
+  "about": {
+    "kicker": "The z-axis",
+    "title": "THE WEB IS FLAT. I ADD DEPTH.",
+    "body": "Brands all look the same and lose attention. I believe the next generation of the web is immersive: motion, depth and meaning. I don't just show a product — I let people experience it.",
+    "stats": {
+      "experience": "Years of experience",
+      "projects": "Projects delivered",
+      "stack": "Real-time stack"
+    }
+  },
+  "work": {
+    "kicker": "Global validation",
+    "title": "SELECTED WORK",
+    "inspect": "Inspect case"
+  },
+  "contact": {
+    "kicker": "Let's build together",
+    "title": "LET'S TALK ABOUT YOUR PROJECT",
+    "subtitle": "An idea, a brand, an experience to craft? Drop me a line or book a call.",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "subject": "Subject",
+      "message": "Your message",
+      "submit": "Send via email"
+    },
+    "booking": {
+      "title": "Book a call",
+      "description": "Pick a slot that works for you."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "director": "Creative direction",
+    "webglUnsupported": "WEBGL NOT SUPPORTED"
+  }
+}
