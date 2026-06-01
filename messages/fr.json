@@ -47,6 +47,10 @@
     }
   },
   "footer": {
+    "studioLabel": "Studio",
+    "basedLabel": "Basé à",
+    "based": "France — à distance",
+    "legal": "Mentions légales",
     "rights": "Tous droits réservés.",
     "director": "Direction créative",
     "webglUnsupported": "WEBGL NON SUPPORTÉ"

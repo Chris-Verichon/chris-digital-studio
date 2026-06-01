@@ -53,7 +53,10 @@ export function Contact() {
 
       <div className="mt-16 grid gap-12 lg:grid-cols-2 lg:gap-16">
         <Reveal>
-          <form onSubmit={handleSubmit} className="flex flex-col gap-5">
+          <form
+            onSubmit={handleSubmit}
+            className="flex flex-col gap-5 rounded-3xl border border-white/10 bg-[#080b16]/55 p-8 backdrop-blur-md"
+          >
             <div className="grid gap-5 sm:grid-cols-2">
               <Field
                 label={t("form.name")}

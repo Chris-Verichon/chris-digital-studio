@@ -13,8 +13,8 @@ export function About() {
   const t = useTranslations("about");
 
   const stats: Array<{ value: string; key: "experience" | "projects" | "stack" }> = [
-    { value: "5+", key: "experience" },
-    { value: "20+", key: "projects" },
+    { value: "3+", key: "experience" },
+    { value: "15+", key: "projects" },
     { value: "WebGL", key: "stack" },
   ];
 

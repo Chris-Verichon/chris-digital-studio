@@ -47,6 +47,10 @@
     }
   },
   "footer": {
+    "studioLabel": "Studio",
+    "basedLabel": "Based in",
+    "based": "France — remote",
+    "legal": "Legal",
     "rights": "All rights reserved.",
     "director": "Creative direction",
     "webglUnsupported": "WEBGL NOT SUPPORTED"

@@ -1,14 +1,14 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { HeroCanvasGate } from "@/three/HeroCanvasGate";
 
 /**
  * Hero
  *
- * Full-viewport immersive intro: the WebGL scene sits behind oversized,
- * letter-spaced typography. The accent word is rendered on its own line to
- * echo the cinematic, spaced look of the reference experience.
+ * Full-viewport immersive intro. The 3D scene lives in the fixed background
+ * (ExperienceBackground); this section only renders the overlay copy so the
+ * camera choreography shows through. The accent word is rendered on its own
+ * line to echo the cinematic, spaced look of the reference experience.
  */
 export function Hero() {
   const t = useTranslations("hero");
@@ -18,12 +18,8 @@ export function Hero() {
       id="hero"
       className="relative flex h-screen min-h-[640px] w-full items-center justify-center overflow-hidden"
     >
-      <div className="absolute inset-0 -z-0">
-        <HeroCanvasGate />
-      </div>
-
       {/* Radial vignette to keep the copy legible over the scene. */}
-      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,_transparent_30%,_rgba(5,6,10,0.85)_100%)]" />
+      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,_transparent_35%,_rgba(4,5,10,0.7)_100%)]" />
 
       <div className="relative z-10 mx-auto max-w-5xl px-6 text-center">
         <p className="mb-6 font-mono text-xs uppercase tracking-[0.5em] text-cyan-300/80">
